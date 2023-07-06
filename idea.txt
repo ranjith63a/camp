@@ -83,3 +83,5 @@ general feature
 * text translation
 * voice search
 * suggest community based on user data
+* multi launguage support
+* premium features
