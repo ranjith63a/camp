@@ -50,3 +50,17 @@ module features :
   * fund raising
   * blood donation
   * jobs
+
+
+general feature
+* like and dislike
+* reward for blood donor and active app users
+* follow and unfollow
+* qr code login
+* global app settings
+* pin sub modules in main page
+* audio call and video call
+* private msgs
+* user online status
+* customize profile
+* 
