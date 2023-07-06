@@ -90,6 +90,10 @@ general feature
 
 //tech stack
 
-front end  - vue js , quasar , capacitor
+front end  - vue js , quasar , capacitor 
 backend    - django or moqui 
 data base  - mysql
+web rtc
+socket.io
+
+
