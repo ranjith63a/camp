@@ -86,3 +86,10 @@ general feature
 * multi launguage support
 * premium features
 * payment integration
+
+
+//tech stack
+
+front end  - vue js , quasar , capacitor
+backend    - django or moqui 
+data base  - mysql
