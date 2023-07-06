@@ -23,6 +23,8 @@ module features :
 * rooms can inherit community,events modules
 * rooms bots
 * screen share
+* stream to social media
+* disable screen shots
 
 3 . events
 
@@ -32,4 +34,19 @@ module features :
   * ban specific user
   * ban specific community
   * public and private events
-  * 
+  * stream to social media - advance
+  * disable screen shots  
+  * provide games based on template
+
+4 . store
+
+  * create custom store
+  * allocated storage size
+  * create shop
+  * private store
+  * inherit all modules
+
+5 . social
+  * fund raising
+  * blood donation
+  * jobs
