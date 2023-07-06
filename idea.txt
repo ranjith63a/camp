@@ -1,2 +1,35 @@
 
-demoo
+main modules : 
+1 . community
+2 . rooms
+3 . events
+4 . store
+5 . social
+
+
+module features : 
+
+1 . community
+
+* suggest some pre defined community structure based on choice
+* user can create own community structure
+* community inherit all main modules
+
+2 . rooms
+
+* user can create voice,video,msg channel 
+  - time based active channel
+  - permanent channel
+* rooms can inherit community,events modules
+* rooms bots
+* screen share
+
+3 . events
+
+  * events inherit rooms , store , community
+  * time and date based events
+  * admin transfer feature
+  * ban specific user
+  * ban specific community
+  * public and private events
+  * 
