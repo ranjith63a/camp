@@ -76,4 +76,7 @@ general feature
 * app based global games like coding competation , spell bee (advance)
 * custom icons
 * no social media authentication
-* 
+* remove adult content and restrict adult word before store the content..runtime detection
+* terms and contitions
+* data security
+* give points based on user activity ..he can buy premium content based on point
