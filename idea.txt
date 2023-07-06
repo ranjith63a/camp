@@ -34,7 +34,7 @@ module features :
   * ban specific user
   * ban specific community
   * public and private events
-  * stream to social media - advance
+  * stream to social media - (advance)
   * disable screen shots  
   * provide games based on template
 
@@ -45,11 +45,14 @@ module features :
   * create shop
   * private store
   * inherit all modules
+  * 
 
 5 . social
   * fund raising
   * blood donation
-  * jobs
+  * jobs search and job posting
+  * global news
+  * trends
 
 
 general feature
@@ -63,4 +66,14 @@ general feature
 * private msgs
 * user online status
 * customize profile
+* global notifications and module based notification
+* audio and video noise suppression
+* create tags 
+* allow anonymouse user only view public main modules
+* share links
+* image compress
+* support all file type multimedia formate
+* app based global games like coding competation , spell bee (advance)
+* custom icons
+* no social media authentication
 * 
