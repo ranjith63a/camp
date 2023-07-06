@@ -80,3 +80,6 @@ general feature
 * terms and contitions
 * data security
 * give points based on user activity ..he can buy premium content based on point
+* text translation
+* voice search
+* suggest community based on user data
