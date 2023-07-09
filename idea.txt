@@ -97,6 +97,7 @@ web rtc
 socket.io
 
 #DataBase
+I learn PYTHON and DJANGO 
 
 
 
